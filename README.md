@@ -2,99 +2,71 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive **Power BI dashboard** that analyzes the **global data job market**.
+This project presents an interactive **Power BI dashboard** that analyzes trends in the **global data job market**.
 
-The dashboard provides insights into:
+The dashboard explores:
 
-* 💰 Salary distribution
-* 📈 Job demand trends
+* 💰 Salary distribution across data roles
+* 📈 Job posting trends throughout the year
 * 🌍 Global job locations
 * 💼 Job platforms and job types
 
-The goal of this project is to explore **data-related job roles and salary trends** using data visualization and analytics.
+The goal is to gain insights into **data-related job roles, demand, and salary patterns** using data visualization.
 
 ---
 
-## 🔎 Dashboard Insights
+## 📷 Dashboard Preview
 
-The dashboard answers several key questions about the data job market:
+### 📊 Main Dashboard
 
-* 📈 What is the **trend of data jobs during the year**?
-* 💰 Which **data roles have the highest salaries**?
-* ⏱ What is the relationship between **hourly and yearly salary**?
-* 🌐 Which **platforms publish the most data jobs**?
-* 🏠 What percentage of jobs offer **Work From Home (WFH)**?
-* 🎓 How many jobs **do not require a degree**?
-* 🏥 What benefits (like **health insurance**) are mentioned?
-* 🌍 Where are **data jobs located globally**?
+![Main Dashboard](images/dashboard_overview.png)
 
----
+This page provides an overview of the data job market including:
 
-## 📊 Key Visualizations
-
-### 📌 Main Dashboard
-
-Includes several interactive visuals:
-
-* 🔢 Total job count
-* 💵 Median yearly salary
-* ⏱ Median hourly salary
-* 📉 Monthly job trends
-* 📊 Highest paying data jobs
-* 💼 Job distribution by platform
-* 🧩 Job type breakdown (Full-time, Contractor, Internship)
+* Total job postings
+* Median yearly salary
+* Median hourly salary
+* Monthly job posting trends
+* Highest paying data roles
+* Job distribution by platform
+* Job type breakdown (Full-time, Contractor, Internship)
 
 ---
 
-### 🔍 Drill Through Page
+### 🔍 Job Title Drill-Through Analysis
 
-Each job title has a **drill-through page** with detailed insights:
+![Job Title Drill Through](images/job_title_drillthrough.png)
+
+This page provides **detailed insights for a selected job title** using Power BI's **Drill Through** feature.
+
+It shows:
 
 * 💰 Average yearly salary
 * ⏱ Average hourly salary
-* 🏠 WFH percentage
-* 🎓 Degree requirement percentage
-* 🏥 Health insurance availability
-* 🌍 Global job distribution
+* 🏠 Percentage of jobs offering Work From Home (WFH)
+* 🎓 Percentage of jobs that require a degree
+* 🏥 Availability of health insurance benefits
+* 🌍 Global job distribution for the selected role
+
+Users can right-click on any job title in the main dashboard to explore deeper insights.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* 📊 **Power BI**
-* 📉 **Data Visualization**
-* 📊 **Data Analysis**
+* 📊 Power BI
+* 📉 Data Visualization
+* 📊 Data Analysis
 
 ---
 
 ## ⚡ Dashboard Features
 
-* 🎛 Interactive filtering
-* 🔍 Drill-through analysis by job title
-* 🌍 Global job location mapping
-* 📈 Trend analysis
-* 💰 Salary comparison across roles
-
----
-
-## 👩‍💻 Example Roles Included
-
-* Data Engineer
-* Data Analyst
-* Data Scientist
-* Senior Data Engineer
-* Machine Learning Engineer
-* Cloud Engineer
-* Business Analyst
-
----
-
-## 🚀 How to Use
-
-1️⃣ Download or clone the repository.
-2️⃣ Open the **Power BI (.pbix) file**.
-3️⃣ Explore the dashboard using filters and visuals.
-4️⃣ Use **Drill Through** on job titles for detailed insights.
+* Interactive filtering
+* Drill-through analysis by job title
+* Global job location mapping
+* Salary comparison across roles
+* Trend analysis of job postings
 
 ---
 
@@ -102,12 +74,12 @@ Each job title has a **drill-through page** with detailed insights:
 
 This project was created to practice:
 
-* 📊 Power BI dashboard development
-* 📈 Data storytelling
-* 🔍 Exploratory data analysis of job market data
+* Power BI dashboard design
+* Data storytelling
+* Exploratory analysis of job market data
 
 ---
 
-## 👩‍💼 Author
+## 👩‍💻 Author
 
 **Melek Askerova**
