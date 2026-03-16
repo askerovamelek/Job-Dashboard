@@ -19,8 +19,6 @@ The goal is to gain insights into **data-related job roles, demand, and salary p
 
 ### 📊 Main Dashboard
 
-![Main Dashboard](images/dashboard_overview.png)
-
 This page provides an overview of the data job market including:
 
 * Total job postings
@@ -34,8 +32,6 @@ This page provides an overview of the data job market including:
 ---
 
 ### 🔍 Job Title Drill-Through Analysis
-
-![Job Title Drill Through](images/job_title_drillthrough.png)
 
 This page provides **detailed insights for a selected job title** using Power BI's **Drill Through** feature.
 
